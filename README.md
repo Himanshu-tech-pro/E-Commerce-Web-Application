@@ -6,12 +6,6 @@ Welcome to the Food Delivery Website repository created by Himanshu! 🍽️
 
 This project is a dynamic and user-friendly food delivery website developed using HTML, CSS, and JavaScript. It offers an immersive experience for users to browse, select, and order from a wide range of culinary options.
 
-## Screenshots
-![image](https://e-commerce-web-application-himanshus-projects-e2194620.vercel.app/)
-![image](https://e-commerce-web-application-himanshus-projects-e2194620.vercel.app/)
-![image](https://e-commerce-web-application-himanshus-projects-e2194620.vercel.app/)
-![image](https://e-commerce-web-application-himanshus-projects-e2194620.vercel.app/)
-![image](https://e-commerce-web-application-himanshus-projects-e2194620.vercel.app/)
 
 ## Features
 
